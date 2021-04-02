@@ -8,8 +8,9 @@ body{
 }
 
 .logoprincipal{
-    background: linear-gradient(rgba(0,0,0,.10),rgba(0,0,0,.10)100%), url('../img/chrevroncinza.jpg');
+    background: linear-gradient(rgba(0,0,0,.10),rgba(0,0,0,.10)100%), url('../img/logo4.png');
     height: 400px;
+    width: 100%;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -56,27 +57,6 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-h3{
-    text-align: center;
-    font-size: 100px;
-    font-family:cursive;
-    color:tomato;
-    margin-left: 450px;
-    
-}
-.subtitulo{
-    text-align: center;
-    font-size: 25px;
-    font-family:cursive;
-    color:tomato;
-    margin-left: 800px;
-    margin-top: -30px;
-}
-.cupcake{
-    margin-left: 840px;
-    position: absolute;
-    top:200px;
-}
 h4{
     text-align: center;
     font-size: 15px;
@@ -91,6 +71,7 @@ h4{
 
 .descricao{
     margin-top: 15px;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:darkslategray;
 }
