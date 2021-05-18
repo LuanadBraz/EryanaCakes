@@ -57,6 +57,15 @@ header nav a:hover{
     margin-left: 20px;
 }
 
+.subtitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkslategray;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 5px;
+    
+}
+
 h4{
     text-align: center;
     font-size: 15px;
@@ -70,8 +79,8 @@ h4{
 }
 
 .descricao{
-    margin-top: 15px;
-    text-align: center;
+    
+   text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:darkslategray;
 }
